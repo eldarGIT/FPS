@@ -1,0 +1,79 @@
+fileFormatVersion: 2
+guid: 2e77ffedbd111e44d0003b9b8d76c639
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: sentryGunBottom
+    100002: sentryGunRotateY
+    100004: sentryGunTop
+    100006: muzzleflash
+    100008: //RootNode
+    400000: sentryGunBottom
+    400002: sentryGunRotateY
+    400004: sentryGunTop
+    400006: muzzleflash
+    400008: //RootNode
+    2300000: sentryGunBottom
+    2300002: sentryGunTop
+    2300004: muzzleflash
+    3300000: sentryGunBottom
+    3300002: sentryGunTop
+    3300004: muzzleflash
+    4300000: sentryGunBottom
+    4300002: sentryGunTop
+    4300004: muzzleflash
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 3
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 0
+    normalImportMode: 1
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
